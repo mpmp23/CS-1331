@@ -16,4 +16,4 @@ You can access the curriculum here -- https://gitlab.com/cs1331/cs1331.gitlab.io
   - Implemented a small object-oriented system modeling different AI agents with distinct behaviors, using inheritance and polymorphism. The project emphasizes clean abstraction, method overriding, and interaction between collaborating classes.
   - Concepts practiced: Abstract classes, inheritance, polymorphism, encapsulation, method overriding, class hierarchies.
 
-# I have read Dr. Y. Daniel Liang's Introduction to Java Programming and Data Structures, and applied the concepts held within in each homework problem I practice.
+### I have read Dr. Y. Daniel Liang's Introduction to Java Programming and Data Structures, and applied the concepts held within in each homework problem I practice.
