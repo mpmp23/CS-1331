@@ -1,6 +1,6 @@
 # CS-1331
-My personal self-study work of Georgia Tech's CS 1331 curriculum. This repository reflects a progression from foundational Java programming to more advanced object-oriented design patterns and system modeling.
-You can access the curriculum here -- https://gitlab.com/cs1331/cs1331.gitlab.io/-/tree/master/fall2018/hw5?ref_type=heads
+My personal self-study work of Georgia Tech's CS 1331 curriculum. This repository reflects a progression from foundational Java programming to more advanced object-oriented design patterns and system modeling. They should be organized into .zip files which host all relevant subfiles.
+You can access the curriculum and the problem descriptions here -- https://gitlab.com/cs1331/cs1331.gitlab.io/-/tree/master/fall2018/hw5?ref_type=heads
 
 # Projects done so far:
 1. Histogram
