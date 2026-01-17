@@ -18,5 +18,8 @@ You can access the curriculum and the problem descriptions here -- https://gitla
 5. Custom Generic List (Array-Backed Implementation)
   - Implemented a custom generic list data structure from scratch using a dynamically resizing backing array. The list supports insertion, retrieval, replacement, removal, and export operations while maintaining a clear separation between logical size and physical capacity. Capacity automatically doubles when full, mirroring core behaviors of Java’s ArrayList.
   - Concepts practiced: Java generics, interface implementation, backing arrays, dynamic resizing, exception handling, object equality vs reference equality, loop invariants.
+6. ATM Transaction Filtering (Predicates, Lambdas, and Inner Classes)
+  - Built a transaction-query subsystem for an ATM application that filters historical transactions using predicate-based rules. The design separates data storage from filtering logic via a reusable predicate engine, enabling flexible queries such as deposits, withdrawals, amount-based searches, and comment-based filters without mutating the original transaction history. The project progressively implements filtering rules using named inner classes, anonymous inner classes, and lambda expressions to demonstrate multiple Java paradigms for defining behavior.
+  - Concepts practiced: Functional interfaces (Predicate<T>), named inner classes, anonymous inner classes, lambda expressions, enums, immutability and defensive copying, encapsulation, Optional usage, higher-order methods, separation of concerns.
 
 ### I have read Dr. Y. Daniel Liang's Introduction to Java Programming and Data Structures, and applied the concepts held within in each homework problem I practice.
