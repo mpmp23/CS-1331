@@ -15,7 +15,7 @@ You can access the curriculum and the problem descriptions here -- https://gitla
 4. 'Evil Chipotle' (aka practice with OOP and inheritance)
   - Implemented a small object-oriented system modeling different AI agents with distinct behaviors, using inheritance and polymorphism. The project emphasizes clean abstraction, method overriding, and interaction between collaborating classes.
   - Concepts practiced: Abstract classes, inheritance, polymorphism, encapsulation, method overriding, class hierarchies.
-5. 5. Custom Generic List (Array-Backed Implementation)
+5. Custom Generic List (Array-Backed Implementation)
   - Implemented a custom generic list data structure from scratch using a dynamically resizing backing array. The list supports insertion, retrieval, replacement, removal, and export operations while maintaining a clear separation between logical size and physical capacity. Capacity automatically doubles when full, mirroring core behaviors of Java’s ArrayList.
   - Concepts practiced: Java generics, interface implementation, backing arrays, dynamic resizing, exception handling, object equality vs reference equality, loop invariants.
 
